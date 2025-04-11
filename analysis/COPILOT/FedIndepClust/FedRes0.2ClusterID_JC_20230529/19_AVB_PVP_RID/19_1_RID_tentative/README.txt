@@ -1,0 +1,3 @@
+Using marker genes from Packer Emb and Packer L2 lists narrowed it down to RID and AIA (also because of pretty restricted expression of flp-2 in AIA, RID, PVW, I5, and MC neurons, see ).
+
+Because AIA is predicted to be cluster 28_1, tentatively annotating cluster 19_1 RID (but caveat: ceh-10, whose expression should be activated in the RID precursor, ABalappaap, after the 200-cell stage embryos and should be maintained in the RID neuron throughout development, is not a enriched in cluster 19_1)

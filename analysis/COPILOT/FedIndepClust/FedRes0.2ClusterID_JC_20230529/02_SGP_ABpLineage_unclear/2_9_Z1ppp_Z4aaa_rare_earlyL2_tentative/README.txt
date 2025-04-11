@@ -1,0 +1,1 @@
+based on lin-12 expresion: starts to expressin pre-VU (ventral uterine) cells Z1.ppp and Z4.aaa (also called "alpha" cells) that are born in EEEarly L2.
