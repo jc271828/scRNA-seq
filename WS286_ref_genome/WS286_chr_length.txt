@@ -1,0 +1,25 @@
+# By doing tail -n +2 <chr.fa> | wc -m
+# and tail -n +2 <chr.fa> | wc -l
+# with each of the chromosomal FASTA files derived from WS286 genomic assembly FASTA
+# Calculated chr length for each chr
+
+# I 15072434
+# 15323642 - 251208
+
+# II 15279421
+# 15534079 - 254658
+
+# III 13783801
+# 14013532 - 229731
+
+# IV 17493829
+# 17785393 - 291564
+
+# V 20924180
+# 21272917 - 348737
+
+# X 17718942
+# 18014258 - 295316
+
+# MtDNA 13794
+# 14024 - 230
