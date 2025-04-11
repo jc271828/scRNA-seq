@@ -1,0 +1,1 @@
+starv0_sckb_mtx_ws286_raw.csv was duplicated from starv0_sckb_mtx_ws286_ext_Gene3pUtrTrans_50bp.csv because based on fed0 comparison, not changing exon annotation or only changing entry orders should have the same mapping result as using raw annotation
