@@ -1,0 +1,17 @@
+16 samples:
+fed0
+fed1
+fed2
+fed3
+fed4.2
+fed5
+fed6.1
+fed6.2
+starv0
+starv1
+starv2
+starv3
+starv4.2
+starv5
+starv6.1
+starv6.2
