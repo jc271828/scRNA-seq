@@ -1,0 +1,21 @@
+Pharyngeal neurons
+
+1. Motor neurons
+M1
+M2L/R
+M3L/R
+M4
+M5
+
+2. Interneurons
+I1L/R
+I2L/R
+I3
+I4
+I5
+I6
+
+3. Other neurons
+MI
+NSML/R
+MCL/R
