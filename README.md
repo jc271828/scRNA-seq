@@ -1,0 +1,1 @@
+Includes raw data and code to reproduce results in Chen, J., Chitrakar, R., Valley, J. R. & Baugh, L. R. For more explanation on code, contact JC at chen32jing32xian[at]gmail.com; for details on experiments and/or reagent requests, etc., contact the corresponding author LRB at ryan.baugh[at]duke.edu
